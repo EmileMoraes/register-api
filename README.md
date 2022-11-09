@@ -6,7 +6,7 @@ This is a generic register API, like a personal notebook that contains data from
 FrontEnd
 
 * [Angular CLI](https://angular.io/cli) - Framework web
-* [Typescript](https://maven.apache.org/) - Language
+* [Typescript](https://www.typescriptlang.org/) - Language
 * [Npm](https://www.npmjs.com/) - Package manager
 
 
